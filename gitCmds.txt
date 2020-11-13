@@ -9,3 +9,5 @@ git status - tells you the status of files in the repo
 git reset HEAD <file name> - unstage the file
 
 git checkout -- file name - tak your file back to how it was in the last commit
+
+git log - lsit all the commits
